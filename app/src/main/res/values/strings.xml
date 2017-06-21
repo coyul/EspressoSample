@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EspressoSample</string>
+    <string name="button_text">Click me</string>
+    <string name="center_text">Hello World!</string>
+    <string name="secret_text">Secret opened!</string>
+    <string name="edit_text_name">Your name</string>
+    <string name="checkbox_android_text">Check if you like Android</string>
+    <string name="start_new_activity">Start new activity</string>
+    <string name="new_activity">New Activity</string>
+    <string name="load_message">Load message</string>
+</resources>
